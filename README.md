@@ -4,6 +4,7 @@ Internships for freshman and sophomores :D
 ## Internships
 | Name  |    Notes |
 |---|-------------|
+| NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
 |Google | [Freshman](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021), [Sophomores](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021)|
 |Facebook | [FBU](https://www.facebook.com/careers/jobs/257434835548688/) - Data Analytics, looks like their engineering posting closed :/ |
 |Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - probably opening in 2021 |
@@ -16,7 +17,7 @@ Internships for freshman and sophomores :D
 |SAP | [STAR](https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html?source=social-global-life+at+sap-fbpage-employerbranding_recruitment-recruitment-lifeatsap-starvt-vocationaltraining-spr-2423338922&campaigncode=CRM-YA19-SSO-BRSOCPT) for Pittsburgh and Philadelphia students only!| 
 | UPMC | Has historically hired sophomores, [UPMC](https://careers.upmc.com/jobs/5543864-summer-associate-finance-internship) |
 
-These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to as many places as possible, apply to companies local to Pittsburgh and your hometown, reach out to any connections you have. It's hard, but not impossible!
+These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to [as many places as possible](https://github.com/Pitt-CSC/Summer2021-Internships), apply to companies **local to Pittsburgh and your hometown**, and reach out to any connections you have. It's hard, but not impossible!
 
 ## Explore Events
 | Name  |    Notes |
