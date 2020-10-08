@@ -16,11 +16,12 @@ Internships for freshman and sophomores :D
 |SAP | [STAR](https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html?source=social-global-life+at+sap-fbpage-employerbranding_recruitment-recruitment-lifeatsap-starvt-vocationaltraining-spr-2423338922&campaigncode=CRM-YA19-SSO-BRSOCPT) for Pittsburgh and Philadelphia students only!| 
 | UPMC | Has historically hired sophomores, [UPMC](https://careers.upmc.com/jobs/5543864-summer-associate-finance-internship) |
 
+These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to as many places as possible, apply to companies local to Pittsburgh and your hometown, reach out to any connections you have. It's hard, but not impossible!
 
 ## Explore Events
 | Name  |    Notes |
 |---|-------------|
-| DE Shaw | [Various fellowships for all years] (https://fellowships.deshaw.com) |
+| DE Shaw | [Various fellowships for all years](https://fellowships.deshaw.com) |
 | JP Morgan | [Sophomore Edge](https://careers.jpmorgan.com/us/en/students/programs/sophomore-development-program?search=&tags=location__Americas__UnitedStatesofAmerica) | 
 | Capital One | [Software Engineering Summits](https://campus.capitalone.com/summits/) |
 | Belvedere Trading | [Externship](http://www.belvederetrading.com/externships) |
