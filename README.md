@@ -7,7 +7,7 @@ Internships for freshman and sophomores :D
 | NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
 |Google | [Freshman](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021), [Sophomores](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021)|
 |Facebook | [FBU](https://www.facebook.com/careers/jobs/257434835548688/) - Data Analytics, looks like their engineering posting closed :/ |
-|Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - probably opening in 2021 |
+|Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in 2021 |
 | Palantir | [NY](https://jobs.lever.co/palantir/1a13a5e8-dc42-4655-a5de-dbc120763f1e), [Palo Alto](https://jobs.lever.co/palantir/09e872da-508a-4581-804e-1da312c718e4), [Seattle](https://jobs.lever.co/palantir/1009258f-f81e-4ed9-b73c-be64c8b03b5c), [DC](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3)  |
 |Uber| [UberStar](https://www.uber.com/careers/list/62885), [Uber ATG](https://www.uber.com/global/en/careers/list/62849/) - ATG has historically hired freshman and sophomores from Pitt! |
 |Twitter | [Sophomore Program](https://twitteracademy21.splashthat.com/), [Exploratory Externships](https://uronsiteexperiences21.splashthat.com/) | 
