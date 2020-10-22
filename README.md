@@ -10,6 +10,7 @@ Internships for freshman and sophomores :D
 |Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in 2021 |
 | Palantir | [NY](https://jobs.lever.co/palantir/1a13a5e8-dc42-4655-a5de-dbc120763f1e), [Palo Alto](https://jobs.lever.co/palantir/09e872da-508a-4581-804e-1da312c718e4), [Seattle](https://jobs.lever.co/palantir/1009258f-f81e-4ed9-b73c-be64c8b03b5c), [DC](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3)  |
 |Uber| UberStar (Closed) , [Uber ATG](https://www.uber.com/global/en/careers/list/62849/) - ATG has historically hired freshman and sophomores from Pitt! |
+|[EA](https://ea.gr8people.com/jobs/162806/pathfinder-intern-software-engineer) | |
 |Twitter | [Sophomore Program](https://twitteracademy21.splashthat.com/), [Exploratory Externships](https://uronsiteexperiences21.splashthat.com/) | 
 | Code2040| Closed unfortunately, but here's [the link](http://www.code2040.org/fellows-program) |
 |Bank of America | [Freshman Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html) | 
