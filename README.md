@@ -5,6 +5,7 @@ Internships for freshman and sophomores :D
 | Name  |    Notes |
 |---|-------------|
 | NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
+| Paid Research ! | [REU](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)|
 |Google | [Freshman](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021), [Sophomores](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021)|
 |Facebook | [FBU](https://www.facebook.com/careers/jobs/257434835548688/) - Data Analytics, looks like their engineering posting closed :/ |
 |Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in 2021 |
