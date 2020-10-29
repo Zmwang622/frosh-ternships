@@ -18,6 +18,17 @@ Internships for freshman and sophomores :D
 |SAP | [STAR](https://career5.successfactors.eu/sfcareer/jobreqcareerpvt?jobId=263483&company=SAP&st=514F3F4CAF44ACA5D029DBF03D21AF5525426CC5) for Pittsburgh and Philadelphia students only!| 
 | UPMC | Has historically hired sophomores, [UPMC](https://careers.upmc.com/jobs/5543864-summer-associate-finance-internship) |
 
+## 🌟 CMU 🌟
+Highly recommend these. Many haven't opened, but that means you have more time to form relationships with professors and get recommendations!  |
+| Department |
+| --------- |
+| [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)|
+| [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| 
+| [Software Engineering Research](https://www.cmu.edu/scs/isr/reuse/) | 
+|[Human Computer Interaction Institute](https://www.hcii.cmu.edu/) | 
+|[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)|
+
+
 These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to [as many places as possible](https://github.com/Pitt-CSC/Summer2021-Internships), apply to companies **local to Pittsburgh and your hometown**, and reach out to any connections you have. It's hard, but not impossible!
 
 ## Explore Events
