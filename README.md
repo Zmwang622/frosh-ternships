@@ -36,7 +36,7 @@ These aren't the only companies that only hire freshmen and sophomores. Your bes
 |---|-------------|
 | Two Sigma | [New Seekers Summit](https://careers.twosigma.com/careers/UniversityJobDetail?jobId=7390) | 
 | DE Shaw | [Various fellowships](https://fellowships.deshaw.com) |
-| JP Morgan | [Sophomore Edge](https://careers.jpmorgan.com/us/en/students/programs/sophomore-development-program?search=&tags=location__Americas__UnitedStatesofAmerica) | 
+| JP Morgan | Check the [Early Insights Page](https://careers.jpmorgan.com/us/en/students/programs) often. JP does a shit ton of their hiring through these events so apply to as many releveant ones as possible | 
 | Capital One | [Software Engineering Summits](https://campus.capitalone.com/summits/) |
 | Belvedere Trading | [Externship](http://www.belvederetrading.com/externships) |
 | Goldman Sachs | [Virtual Insight](https://www.goldmansachs.com/careers/students/programs/americas/undergrad-virtual-insight-series.html), have a few others too |
