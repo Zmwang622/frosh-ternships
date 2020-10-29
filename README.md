@@ -19,7 +19,7 @@ Internships for freshman and sophomores :D
 | UPMC | Has historically hired sophomores, [UPMC](https://careers.upmc.com/jobs/5543864-summer-associate-finance-internship) |
 
 ## 🌟 CMU 🌟
-Highly recommend these. Many haven't opened, but that means you have more time to form relationships with professors and get recommendations!  |
+CMU is worse than Pitt but they do have some cool jobs. Many haven't opened, but that means you have more time to form relationships with professors and get recommendations!  
 | Department |
 | --------- |
 | [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)|
