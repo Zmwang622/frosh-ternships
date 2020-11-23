@@ -22,13 +22,13 @@ Internships for freshman and sophomores :D
 
 ## 🌟 CMU 🌟
 CMU is worse than Pitt but they do have some cool jobs. Many haven't opened, but that means you have more time to form relationships with professors and get recommendations!  
-| Department |
-| --------- |
-| [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)|
-| [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| 
-| [Software Engineering Research](https://www.cmu.edu/scs/isr/reuse/) | 
-|[Human Computer Interaction Institute](https://www.hcii.cmu.edu/) | 
-|[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)|
+| Department | Status |
+| --------- | -------------|
+| [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)| Closed! |
+| [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| Open!|
+| [Software Engineering Research](https://www.cmu.edu/scs/isr/reuse/) | Fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfg9giSilpyii-mw2niw3bjDov5SzGeE5VTjVJuAik8Vkxg3g/viewform) to be notified of when it opens. |
+|[Human Computer Interaction Institute](https://www.hcii.cmu.edu/news/2020/hcii-seeks-researchers-summer-2021-program) | Open! | 
+|[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)| Opening Mid January |
 
 
 These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to [as many places as possible](https://github.com/Pitt-CSC/Summer2021-Internships), apply to companies **local to Pittsburgh and your hometown**, and reach out to any connections you have. It's hard, but not impossible!
