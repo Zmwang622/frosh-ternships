@@ -4,6 +4,7 @@ Internships for freshman and sophomores :D
 ## Internships
 | Name  |    Notes |
 |---|-------------|
+|[Pitt TA](https://cfopitt.taleo.net/careersection/pitt_student_int/jobdetail.ftl?job=20005570&tz=GMT-05%3A00&tzname=America%2FNew_York) | Being a TA is a great way to reinforce the topics you learned in class while gaining more relevant experience! Plenty of students have TA'd for classes like CS007 as freshmen |
 | NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
 | Paid Research ! | [REU](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)|
 |Google | [Freshman](https://careers.google.com/jobs/results/134007951758107334-step-intern-first-year-student-summer-2021), [Sophomores](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021)|
