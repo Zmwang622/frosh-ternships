@@ -22,6 +22,8 @@ Internships for freshman and sophomores :D
 
 ## 🌟 CMU 🌟
 CMU is worse than Pitt but they do have some cool jobs. Many haven't opened, but that means you have more time to form relationships with professors and get recommendations!  
+
+[Here's a great document](https://drive.google.com/file/d/1xI-krdfT2QbaXbNno4jjaptXRjmXcHBX/view) provided by [Katie Morrison](https://www.linkedin.com/in/katelyncmorrison98/) detailing each CMU internship and their relevant info!
 | Department | Status |
 | --------- | -------------|
 | [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)| Closed! |
