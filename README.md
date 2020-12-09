@@ -38,7 +38,7 @@ These aren't the only companies that only hire freshmen and sophomores. Your bes
 ## Explore Events
 | Name  |    Notes |
 |---|-------------|
-|SIG] | [Soph Discovery Day](https://careers.sig.com/job/SUSQA004Y5122)|
+|SIG | [Soph Discovery Day](https://careers.sig.com/job/SUSQA004Y5122)|
 | Two Sigma | [New Seekers Summit](https://careers.twosigma.com/careers/UniversityJobDetail?jobId=7390) | 
 | DE Shaw | [Various fellowships](https://fellowships.deshaw.com) |
 | JP Morgan | Check the [Early Insights Page](https://careers.jpmorgan.com/us/en/students/programs) often. JP does a shit ton of their hiring through these events so apply to as many releveant ones as possible | 
