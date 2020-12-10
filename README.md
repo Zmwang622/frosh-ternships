@@ -1,5 +1,6 @@
 # frosh-ternships
 Internships for freshman and sophomores :D
+
 **12/10 Update**: Highly recommend you apply to the CMU Research, REU, TA, NASA, and SIG Discovery Day postings. Many have already closed
 
 
