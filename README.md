@@ -1,5 +1,7 @@
 # frosh-ternships
 Internships for freshman and sophomores :D
+**12/10 Update**: Highly recommend you apply to the CMU Research, REU, TA, NASA, and SIG Discovery Day postings. Many have already closed
+
 
 ## Internships
 | Name  |    Notes |
@@ -38,7 +40,7 @@ These aren't the only companies that only hire freshmen and sophomores. Your bes
 ## Explore Events
 | Name  |    Notes |
 |---|-------------|
-|SIG | [Soph Discovery Day](https://careers.sig.com/job/SUSQA004Y5122)|
+|SIG | [Fresh Discovery Day - Trading](https://careers.sig.com/job/SUSQA004Y5163/Freshman-Discovery-Day), [Soph Discovery Day - Technology](https://careers.sig.com/job/SUSQA004Y5122), [Soph Discovery Day- Trading](https://careers.sig.com/job/SUSQA004Y5062/Sophomore-Discovery-Day-Trading), [Sophmore Women Discovery Day - Technology](https://careers.sig.com/job/SUSQA004Y5146/Sophomore-Discovery-Day-for-Women-Technology)|
 | Two Sigma | [New Seekers Summit](https://careers.twosigma.com/careers/UniversityJobDetail?jobId=7390) | 
 | DE Shaw | [Various fellowships](https://fellowships.deshaw.com) |
 | JP Morgan | Check the [Early Insights Page](https://careers.jpmorgan.com/us/en/students/programs) often. JP does a shit ton of their hiring through these events so apply to as many releveant ones as possible | 
