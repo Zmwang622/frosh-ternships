@@ -9,7 +9,8 @@ Internships for freshman and sophomores :D
 |---|-------------|
 |[Pitt TA](https://cfopitt.taleo.net/careersection/pitt_student_int/jobdetail.ftl?job=20005570&tz=GMT-05%3A00&tzname=America%2FNew_York) | Being a TA is a great way to reinforce the topics you learned in class while gaining more relevant experience! Plenty of students have TA'd for classes like CS007 as freshmen |
 | NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
-| Paid Research ! | [REU](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)|
+| **Paid Research at Universities** | [REU](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)|
+|Y Combinator| [Work at a Startup](https://www.workatastartup.com/internships)|
 |Google | Closed |
 |Facebook |   their engineering posting closed :/ |
 |Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in Jan 2021 |
