@@ -1,7 +1,7 @@
 # frosh-ternships
 Internships for freshman and sophomores :D
 
-**12/10 Update**: Highly recommend you apply to the CMU Research, REU, TA, NASA, and SIG Discovery Day postings. Many have already closed
+**12/10 Update**: Highly recommend you apply to the CMU Research, REU, TA, NASA, and SIG Discovery Day postings. Most others have already closed
 
 
 ## Internships
@@ -11,8 +11,8 @@ Internships for freshman and sophomores :D
 | NASA | [Internship](https://nasa.force.com/s/login/), NASA hires so many freshmen its crazy, and sometimes there's no interview!|
 | Paid Research ! | [REU](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)|
 |Google | Closed |
-|Facebook |  like their engineering posting closed :/ |
-|Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in 2021 |
+|Facebook |   their engineering posting closed :/ |
+|Microsoft| [Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram), [New Technologists](https://newtechnologists.com/) - New Technologists probably opening in Jan 2021 |
 | Palantir | [NY](https://jobs.lever.co/palantir/1a13a5e8-dc42-4655-a5de-dbc120763f1e), [Palo Alto](https://jobs.lever.co/palantir/09e872da-508a-4581-804e-1da312c718e4), [Seattle](https://jobs.lever.co/palantir/1009258f-f81e-4ed9-b73c-be64c8b03b5c), [DC](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3)  |
 |Uber| UberStar (Closed) , [Uber ATG](https://www.uber.com/global/en/careers/list/62849/) - ATG has historically hired freshman and sophomores from Pitt! |
 |[EA](https://ea.gr8people.com/jobs/162806/pathfinder-intern-software-engineer) | |
