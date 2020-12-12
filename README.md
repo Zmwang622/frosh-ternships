@@ -32,7 +32,7 @@ CMU is worse than Pitt but they do have some cool jobs. Many haven't opened, but
 | --------- | -------------|
 | [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)| Closed! |
 | [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| Open!|
-| [Software Engineering Research](https://www.cmu.edu/scs/isr/reuse/) | Fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfg9giSilpyii-mw2niw3bjDov5SzGeE5VTjVJuAik8Vkxg3g/viewform) to be notified of when it opens. |
+| [Software Engineering Research](https://applygrad.cs.cmu.edu/apply/index.php?domain=80/) | Closes February 1st |
 |[Human Computer Interaction Institute](https://www.hcii.cmu.edu/news/2020/hcii-seeks-researchers-summer-2021-program) | Open! | 
 |[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)| Opening Mid January |
 
