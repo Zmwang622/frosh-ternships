@@ -31,10 +31,10 @@ CMU is worse than Pitt but they do have some cool jobs. Many haven't opened, but
 | Department | Status |
 | --------- | -------------|
 | [Language Tech Institute](https://www.lti.cs.cmu.edu/news/language-technologies-institute-summer-internships-2021)| Closed! |
-| [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| Open!|
+| [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/apply/)| Closed!|
 | [Software Engineering Research](https://applygrad.cs.cmu.edu/apply/index.php?domain=80) | Closes February 1st |
 |[Human Computer Interaction Institute](https://www.hcii.cmu.edu/news/2020/hcii-seeks-researchers-summer-2021-program) | Open! | 
-|[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)| Opening Mid January |
+|[ECE](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)| Ope! |
 |[Cyber Security](https://cmu.taleo.net/careersection/2/jobdetail.ftl?job=0011I&lang=en) | |
 
 These aren't the only companies that only hire freshmen and sophomores. Your best bet is to apply to [as many places as possible](https://github.com/Pitt-CSC/Summer2021-Internships), apply to companies **local to Pittsburgh and your hometown**, and reach out to any connections you have. It's hard, but not impossible!
